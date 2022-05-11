@@ -5,7 +5,7 @@ We provide you with a csv, which contains for each week the average no. of daily
 
 In addition to the [in Copyright](https://rightsstatements.org/page/InC/1.0/?language=en)  conditions and the  [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)  license, we request that:
 
--   The usage and download of the following open available files are only allowed for epidemiological analysis.
+-   The usage and download of the provided files are only allowed for epidemiological analysis.
 -   Do not use the files for other analysis.
 
 ___
