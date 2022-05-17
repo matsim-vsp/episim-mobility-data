@@ -3,11 +3,7 @@ We provide you with a csv, which contains for each week the average no. of daily
 
 # License
 
-In addition to the [in Copyright](https://rightsstatements.org/page/InC/1.0/?language=en)  conditions and the  [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)  license, we request that:
-
--   The usage and download of the provided files are only allowed for epidemiological analysis.
--   Do not use the files for other analysis.
-
+See [LICENSE](https://github.com/matsim-vsp/episim-mobility-data/blob/main/LICENSE).
 ___
 
 More information can be found on our website:  [https://covid-sim.info/](https://covid-sim.info/).  If you have questions, please contact  [covid19@vsp.tu-berlin.de](mailto:covid19@vsp.tu-berlin.de)
